@@ -1,2 +1,2 @@
 # UJJWAL-GOEL
-SAMPLE
+print("hello world")
